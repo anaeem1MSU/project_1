@@ -14,7 +14,7 @@ Sristy - Air Quality vs Population
 
 ### Goal:
 
-To analyze relationships between a countries Electricity Production, CO2 Emissions, and Air Quality. Our cleaned & merged dataset includes data from 40 different countries, spanning from 2010 to 2019.
+To analyze relationships between a countries Energy Production, CO2 Emissions, and Air Quality. Our cleaned & merged dataset includes data from 40 different countries, spanning from 2010 to 2019.
 
 ### Datasets:
 <a href="https://ourworldindata.org/grapher/annual-co-emissions-by-region?tab=table">Annual CO2 Emissions<a>
